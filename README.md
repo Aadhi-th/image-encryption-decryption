@@ -116,7 +116,7 @@ Contributions are welcome! To contribute:
 ## Author
 
 - **ADITH A K**
-- GitHub: [Aadhi-th](https://github.com/your-username)
+- GitHub: [Aadhi-th](https://github.com/Aadhi-th)
 - Email: adithak18@gmail.com
 
 
