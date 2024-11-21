@@ -137,4 +137,4 @@ hot_encryption_success.pn)
 ecryption_success.png)
 ``` 
 
-Feel free to customize the **Author**, **GitHub**, and **Email** sections with your details and add screenshots for better visualization!
+
